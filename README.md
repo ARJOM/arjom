@@ -1,5 +1,6 @@
 ### Fala tu 👋
 
+My online CV: https://antonioricart.com.br/
 <!--
 **ARJOM/arjom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
